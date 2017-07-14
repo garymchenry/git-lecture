@@ -1,2 +1,3 @@
 This is my one line of text.
 Another line of text.
+A third line of text.
