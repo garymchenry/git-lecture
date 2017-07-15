@@ -1,3 +1,6 @@
 This is my one line of text.
 Another line of text.
 A third line of text.
+My 4th line of text.
+
+Here are changes to the existing file on July 15, 2017
