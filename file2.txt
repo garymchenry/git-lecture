@@ -1,3 +1,5 @@
 Here is a new file created on July 15
 
 Here is the second line on file2.
+
+Changing line in file2 cloned version.
